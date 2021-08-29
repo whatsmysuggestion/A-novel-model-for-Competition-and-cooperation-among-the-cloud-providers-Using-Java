@@ -1,0 +1,14 @@
+The application of complex network models to communication systems has led to several important results: nonetheless, previous research has often neglected to take into account their temporal properties, which in many real scenarios play a pivotal role.
+ At the same time, network robustness has come extensively under
+ scrutiny. Understanding whether networked systems can undergo structural damage and
+ yet perform efficiently is crucial to both their protection against failures and to 
+the design of new applications. In spite of this, it is still unclear what type of
+ resilience we may expect in a network which continuously changes over time. In this
+ work we present the first attempt to define the concept of temporal network robustness:
+ we describe a measure of network robustness for time-varying networks and we show how
+ it performs on different classes of random models by means of analytical and numerical 
+evaluation. Finally, we report a case study on a real-world scenario, an opportunistic 
+vehicular system of about 500 taxicabs, highlighting the importance of time in the 
+evaluation of robustness. Particularly, we show how static approximation can wrongly
+ indicate high robustness of fragile networks when adopted in mobile time-varying 
+networks, while a temporal approach captures more accurately the system performance.

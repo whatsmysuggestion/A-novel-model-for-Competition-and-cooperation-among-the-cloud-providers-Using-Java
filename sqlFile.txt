@@ -1,0 +1,26 @@
+create database novel;
+
+use novel;
+
+create table reg(uid int,uname char(50),pwd char(50),email char(50),mno c
+har(50),address char(200));
+
+
+
+create table broker(uid int,uname char(50),pwd char(50),email char(50),mno char(50),address char(200));
+insert into broker values(1,'sreedhar','sreedhar','sss@gmail.com','ssss','ssss');
+ 
+create table fileup(userid char(10),uname char(50),fname char(50),fid char(50),key1 char(50),size1 char(50),date char(50),serverstatus char(50),brokerstatus char(50),pack char(50),cost char(50),packstatus char(50),cloudserver char(50));
+ 
+create table service(uname char(50),pwd char(50),usertype char(50));
+ 
+insert into service values('admin','admin','serviceprovider1');
+insert into service values('admin','admin','serviceprovider2');
+insert into service values('admin','admin','serviceprovider3');
+
+
+
+
+
+
+ 

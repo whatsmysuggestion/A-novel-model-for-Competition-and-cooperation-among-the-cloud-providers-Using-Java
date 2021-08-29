@@ -1,0 +1,18 @@
+2014 Project List:
+
+1. A Cloud Enviroment for Backup and Data Storage
+2. Dealing With Concept drift In Process Mining
+3. Personalized web search using Browsing history and domain Knowledge
+4. Securing Broker-Less Publish Subscribe Systems Using Identity-Based Encryption
+5. Efficient Ranking on Entity Graphs with Personalized Relationships
+6. Task Trail: An Effective Segmentation of User Search Behavior
+7. Efficient Authentication for Mobile and Pervasive Computing
+8. Preserving Location Privacy in Geo-Social Applications
+9. Privacy-Preserving Optimal Meeting Location Determination on Mobile Devices
+10. Access Control in Decentralized Online Social Networks Applying a Policy Hiding Cryptograph
+11. Decentralized Access Control with Anonymous Authentication of Data Stored in Clouds
+12. Key-Aggregate Cryptosystem for Scalable Data Sharing in Cloud Storage
+13. Supporting Privacy Protection in Personalized Web Search
+14. Hop-by-Hop Message Authentication and Source Privacy in Wireless Sensor Networks
+15. Mining Weakly Labeled Web Facial Images for Search-Based Face Annotation
+16.VABKS: Verifiable Attribute-based Keyword Search over Outsourced Encrypted Data
